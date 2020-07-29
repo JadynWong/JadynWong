@@ -2,8 +2,9 @@
 
  🌱 Learn more.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=JadynWong&show_icons=true&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=JadynWong&show_icons=true&theme=dark) 
 
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JadynWong&hide_langs_below=1&show_icons=true&theme=dark)
 <!--
 **JadynWong/JadynWong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
