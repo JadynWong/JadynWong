@@ -4,7 +4,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=JadynWong&show_icons=true&theme=dark) 
 
-![Metrics](https://github.com/JadynWong/JadynWong/blob/master/github-metrics.svg)
+![Metrics](https://github.com/JadynWong/JadynWong/blob/main/github-metrics.svg)
 
 ### Badges
 
