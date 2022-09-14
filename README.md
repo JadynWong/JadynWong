@@ -4,7 +4,9 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=JadynWong&show_icons=true&theme=dark) 
 
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JadynWong&hide_langs_below=1&show_icons=true&theme=dark)
+![Metrics](https://github.com/JadynWong/JadynWong/blob/master/github-metrics.svg)
+
+### Badges
 
 <!--START_SECTION:badges-->
 [![Microsoft Certified: Azure AI Fundamentals](https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](http://www.credly.com/badges/c4742211-a87e-4c3f-8fa0-536631b6ea80 "Microsoft Certified: Azure AI Fundamentals")
