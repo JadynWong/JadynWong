@@ -15,7 +15,6 @@
 [![AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://images.credly.com/size/110x110/images/107e2eb6-f394-40eb-83d2-d8c9b7d34555/exam-az400-600x600.png)](http://www.credly.com/badges/e5d9ab95-1b3c-48c3-8ff2-cba81b37e0f3 "AZ-400: Designing and Implementing Microsoft DevOps Solutions")
 [![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/110x110/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](http://www.credly.com/badges/2bf0c687-2ebd-4234-86f6-30790784f608 "Microsoft Certified: DevOps Engineer Expert")
 [![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/110x110/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](http://www.credly.com/badges/9cf43cdc-789a-49dd-8ab1-eb166e67f685 "Microsoft Certified: Azure Administrator Associate")
-[![Microsoft Certified: Azure Administrator Associate (Legacy)](https://images.credly.com/size/110x110/images/35d18649-95c6-4c78-b07a-cfc1362318f3/azure-administrator-associate.png)](http://www.credly.com/badges/845cbc9e-b029-4971-a8ea-bd77bac4f1c7 "Microsoft Certified: Azure Administrator Associate (Legacy)")
 <!--END_SECTION:badges-->
 
 <!--
