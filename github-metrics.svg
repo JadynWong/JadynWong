@@ -1394,7 +1394,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JasonWei512/EnergyStarX</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔋Improve your Windows device's battery life. A WinUI 3 GUI for EnergyStar.</div>
@@ -1447,7 +1447,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jeessy2/ddns-go</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">简单好用的DDNS。自动更新域名解析到公网IP(支持阿里云、腾讯云dnspod、Cloudflare、华为云、百度云、porkbun)</div>
@@ -1603,7 +1603,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Oct 2022, 23:24:58 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 14 Oct 2022, 00:33:39 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
