@@ -1461,7 +1461,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xoofx/markdig</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET</div>
@@ -1514,7 +1514,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>codebude/QRCoder</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A pure C# Open Source QR Code implementation</div>
@@ -1564,7 +1564,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Dec 2022, 17:14:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 31 Dec 2022, 18:15:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
