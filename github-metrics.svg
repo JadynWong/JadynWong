@@ -1379,7 +1379,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Stormancer/netproxy</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple .NETCore based, crossplatform, TCP/UDP proxy that supports ipv6</div>
@@ -1588,7 +1588,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Feb 2023, 06:16:57 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 28 Feb 2023, 07:17:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
