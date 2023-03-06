@@ -1379,7 +1379,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pvqogw/TVBoxOSC</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1421,7 +1421,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Stormancer/netproxy</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple .NETCore based, crossplatform, TCP/UDP proxy that supports ipv6</div>
@@ -1577,7 +1577,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Mar 2023, 17:17:38 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 6 Mar 2023, 18:18:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
