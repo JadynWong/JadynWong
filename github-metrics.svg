@@ -1500,7 +1500,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fanmingming/live</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">✯ 一个国内可直连的直播源分享项目 ✯  🔕 永久免费 直连访问 🚫无广告 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕</div>
@@ -1547,7 +1547,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tianon/docker-postgres-upgrade</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a PoC for using "pg_upgrade" inside Docker -- learn from it, adapt it for your needs; don't expect it to work as-is!</div>
@@ -1597,7 +1597,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Mar 2023, 13:13:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 23 Mar 2023, 14:19:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
