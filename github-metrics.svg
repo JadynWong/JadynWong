@@ -1362,7 +1362,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Azure-Samples/azure-search-openai-demo</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&amp;A experiences.</div>
@@ -1415,7 +1415,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>betalgo/openai</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OpenAI ChatGPT, Whisper, GPT-3 , GPT-4, Azure OpenAI and DALL-E dotnet SDK</div>
@@ -1468,7 +1468,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OkGoDoIt/OpenAI-API-dotnet</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An unofficial C#/.NET SDK for accessing the OpenAI GPT-3 API</div>
@@ -1521,7 +1521,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GitHubDaily/GitHubDaily</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.</div>
@@ -1559,7 +1559,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Mar 2023, 06:14:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 25 Mar 2023, 07:14:53 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
