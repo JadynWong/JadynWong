@@ -1379,7 +1379,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aiqinxuancai/TiktokenSharp</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This project implements token calculation for OpenAI's gpt-3.5-turbo model, specifically using `cl100k_base` encoding.</div>
@@ -1432,7 +1432,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dluc/openai-tools</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of tools for working with OpenAI</div>
@@ -1589,7 +1589,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Mar 2023, 11:16:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 27 Mar 2023, 12:19:08 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
