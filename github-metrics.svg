@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            804 Commits
+                            805 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -271,14 +271,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="290.32587078356516" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="290.32587078356516" y="0" width="99.14512960448539" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="389.4710003880505" y="0" width="56.29259422488909" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="445.7635946129396" y="0" width="7.424184919628618" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="453.18777953256824" y="0" width="3.1270133509518083" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="456.31479288352" y="0" width="3.0005884012912296" height="8" fill="#1d365d"/>
-                    <rect mask="url(#languages-bar)" x="459.3153812848113" y="0" width="0.459025298673683" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="459.77440658348496" y="0" width="0.2255934165150481" height="8" fill="#e38c00"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="290.29345528926996" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="290.29345528926996" y="0" width="99.1340598421717" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="389.4275151314417" y="0" width="56.337669006111696" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="445.7651841375534" y="0" width="7.423355993762455" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="453.1885401313158" y="0" width="3.1266642133321905" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="456.315204344648" y="0" width="3.0002533792832295" height="8" fill="#1d365d"/>
+                    <rect mask="url(#languages-bar)" x="459.3154577239313" y="0" width="0.45897404753333393" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="459.77443177146455" y="0" width="0.22556822853546385" height="8" fill="#e38c00"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1385,7 +1385,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vinorodrigues/bootstrap-dark-5</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Ancillary Guide to Dark Mode and Bootstrap 5 - A continuation of the v4 Dark Mode POC.     &gt;&gt;&gt; Bootstrap 5.2 is in the `dev/v1.2.0` branch &lt;&lt;&lt;</div>
@@ -1459,7 +1459,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        19.3k
+                                        19.4k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1594,7 +1594,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Apr 2023, 11:15:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 3 Apr 2023, 12:17:47 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
