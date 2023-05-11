@@ -1400,7 +1400,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pgvector/pgvector</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open-source vector similarity search for Postgres</div>
@@ -1453,7 +1453,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>redis/NRedisStack</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Redis Stack .Net client</div>
@@ -1609,7 +1609,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 May 2023, 00:19:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 12 May 2023, 01:13:08 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
