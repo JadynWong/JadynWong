@@ -1385,7 +1385,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cyanfish/naps2</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Scan documents to PDF and more, as simply as possible.</div>
@@ -1491,7 +1491,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>martinothamar/Mediator</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A high performance implementation of Mediator pattern in .NET using source generators.</div>
@@ -1594,7 +1594,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jun 2023, 13:14:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 12 Jun 2023, 14:19:15 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
