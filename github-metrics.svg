@@ -1421,7 +1421,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>appsmithorg/appsmith</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.</div>
@@ -1474,7 +1474,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cyanfish/naps2</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Scan documents to PDF and more, as simply as possible.</div>
@@ -1577,7 +1577,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jun 2023, 09:21:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 16 Jun 2023, 10:40:08 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
