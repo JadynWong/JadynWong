@@ -1362,7 +1362,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dotnet/Open-XML-SDK</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open XML SDK by Microsoft</div>
@@ -1415,7 +1415,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Azure-Samples/azure-sql-db-openai</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Samples on how to use Azure SQL database with Azure OpenAI</div>
@@ -1468,7 +1468,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>EvotecIT/OfficeIMO</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast and easy to use cross-platform .NET library that creates or modifies Microsoft Word (DocX) and later also Excel (XLSX) files without installing any software. Library is based on Open XML SDK</div>
@@ -1571,7 +1571,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Aug 2023, 04:14:16 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 5 Aug 2023, 05:11:45 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
