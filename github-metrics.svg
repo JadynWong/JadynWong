@@ -1389,7 +1389,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CosineG/OpenCC.NET</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The .NET version of OpenCC(Open Chinese Convert), for the conversion between Simplified Chinese and Traditional Chinese.</div>
@@ -1548,7 +1548,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>EvotecIT/OfficeIMO</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast and easy to use cross-platform .NET library that creates or modifies Microsoft Word (DocX) and later also Excel (XLSX) files without installing any software. Library is based on Open XML SDK</div>
@@ -1598,7 +1598,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Aug 2023, 09:13:36 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 9 Aug 2023, 10:29:12 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
