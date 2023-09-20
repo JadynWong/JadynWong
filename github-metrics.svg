@@ -1442,7 +1442,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>opencv/opencv_contrib</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Repository for OpenCV's extra modules</div>
@@ -1495,7 +1495,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WeChatCV/opencv_3rdparty</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OpenCV - 3rdparty</div>
@@ -1592,7 +1592,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Sept 2023, 22:14:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Sept 2023, 23:14:56 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
