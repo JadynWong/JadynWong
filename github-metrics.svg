@@ -1384,7 +1384,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sdcb/OpenVINO.NET</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">High quality .NET wrapper for OpenVINO™ toolkit.</div>
@@ -1437,7 +1437,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>emilk/egui</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native</div>
@@ -1490,7 +1490,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>massgravel/Microsoft-Activation-Scripts</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.</div>
@@ -1587,7 +1587,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Oct 2023, 23:15:56 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Oct 2023, 00:19:07 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
