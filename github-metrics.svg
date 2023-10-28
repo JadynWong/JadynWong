@@ -1473,7 +1473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lyswhut/lx-music-desktop</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">一个基于 electron 的音乐软件</div>
@@ -1526,7 +1526,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lyswhut/lx-music-mobile</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">一个基于 React native 开发的音乐软件</div>
@@ -1576,7 +1576,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Oct 2023, 02:16:53 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Oct 2023, 03:10:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
