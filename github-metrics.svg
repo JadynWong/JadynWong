@@ -1443,7 +1443,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>artiomchi/FlexLabs.Upsert</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">FlexLabs.Upsert is a library that brings UPSERT functionality to common database providers for Entity Framework in their respective native SQL syntax</div>
@@ -1496,7 +1496,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/CsWin32</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A source generator to add a user-defined set of Win32 P/Invoke methods and supporting types to a C# project.</div>
@@ -1599,7 +1599,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Nov 2023, 22:13:24 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Nov 2023, 23:15:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
