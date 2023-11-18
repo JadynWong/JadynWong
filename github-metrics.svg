@@ -1420,7 +1420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mlc-ai/mlc-llm</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.</div>
@@ -1473,7 +1473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kinfey/SemanticKernel-Local-LLM-Server</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is Local LLM Server for Semantic Kernel</div>
@@ -1571,7 +1571,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Nov 2023, 14:18:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Nov 2023, 15:12:43 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
