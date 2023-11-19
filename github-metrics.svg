@@ -1372,7 +1372,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MyIntelligenceAgency/semantic-fleet</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Semantic-Fleet serves as a specialized extension hub for the Semantic-Kernel ecosystem. It houses a diverse array of connectors designed to interface with lightweight language models (LLMs).</div>
@@ -1425,7 +1425,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>oobabooga/text-generation-webui</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.</div>
@@ -1478,7 +1478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>codingonion/awesome-llm-and-aigc</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚀🚀🚀A collection of some awesome public projects about Large Language Model, Vision Foundation Model and AI Generated Content.</div>
@@ -1519,7 +1519,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>THUDM/ChatGLM3</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型</div>
@@ -1569,7 +1569,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Nov 2023, 05:12:13 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Nov 2023, 06:13:08 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
