@@ -1379,7 +1379,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>IdentityStream/Hangfire.Console</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Job console extension for Hangfire</div>
@@ -1432,7 +1432,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>XuehaiPan/nvitop</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.</div>
@@ -1485,7 +1485,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Syllo/nvtop</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GPUs process monitoring for AMD, Intel and NVIDIA</div>
@@ -1538,7 +1538,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>langgenius/dify</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine.</div>
@@ -1572,7 +1572,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        718
+                                        719
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1588,7 +1588,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Nov 2023, 17:15:59 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Nov 2023, 18:16:59 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
