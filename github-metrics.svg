@@ -1379,7 +1379,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>THUDM/ChatGLM2-6B</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型</div>
@@ -1432,7 +1432,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>IdentityStream/Hangfire.Console</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Job console extension for Hangfire</div>
@@ -1485,7 +1485,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>XuehaiPan/nvitop</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.</div>
@@ -1538,7 +1538,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Syllo/nvtop</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GPUs process monitoring for AMD, Intel and NVIDIA</div>
@@ -1588,7 +1588,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Nov 2023, 06:14:36 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Nov 2023, 07:15:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
