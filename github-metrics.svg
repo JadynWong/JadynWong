@@ -1384,7 +1384,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>THUDM/ChatGLM2-6B</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型</div>
@@ -1437,7 +1437,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>IdentityStream/Hangfire.Console</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Job console extension for Hangfire</div>
@@ -1593,7 +1593,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Nov 2023, 14:19:40 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Nov 2023, 15:13:47 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
