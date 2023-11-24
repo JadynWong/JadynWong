@@ -1362,7 +1362,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>01-ai/Yi</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A series of large language models trained from scratch by developers @01-ai</div>
@@ -1415,7 +1415,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FlagOpen/FlagEmbedding</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dense Retrieval and Retrieval-augmented LLMs</div>
@@ -1559,7 +1559,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Nov 2023, 04:15:09 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Nov 2023, 05:12:20 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
