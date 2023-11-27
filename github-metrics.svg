@@ -1379,7 +1379,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aieditor-team/aieditor</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AiEditor</div>
@@ -1485,7 +1485,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>01-ai/Yi</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A series of large language models trained from scratch by developers @01-ai</div>
@@ -1588,7 +1588,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Nov 2023, 19:12:59 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Nov 2023, 20:29:08 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
