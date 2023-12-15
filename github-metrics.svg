@@ -1362,7 +1362,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/TaskWeaver</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A code-first agent framework for seamlessly planning and executing data analytics tasks.</div>
@@ -1521,7 +1521,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vllm-project/vllm</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A high-throughput and memory-efficient inference and serving engine for LLMs</div>
@@ -1571,7 +1571,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Dec 2023, 09:07:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Dec 2023, 10:29:00 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
