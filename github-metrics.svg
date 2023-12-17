@@ -1425,7 +1425,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>huggingface/tokenizers</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💥 Fast State-of-the-Art Tokenizers optimized for Research and Production</div>
@@ -1478,7 +1478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mlc-ai/tokenizers-cpp</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Universal cross-platform tokenizers binding to HF and sentencepiece</div>
@@ -1581,7 +1581,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Dec 2023, 11:15:17 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Dec 2023, 12:17:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
