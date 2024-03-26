@@ -1384,7 +1384,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ollama/ollama</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Get up and running with Llama 2, Mistral, Gemma, and other large language models.</div>
@@ -1587,7 +1587,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Mar 2024, 05:14:04 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Mar 2024, 06:15:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
