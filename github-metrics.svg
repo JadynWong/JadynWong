@@ -1437,7 +1437,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AIDotNet/GraphRag.Net</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">参考GraphRag使用 Semantic Kernel 来实现的dotnet版本</div>
@@ -1593,7 +1593,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Aug 2024, 14:25:04 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Aug 2024, 15:16:46 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
