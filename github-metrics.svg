@@ -1437,7 +1437,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sentool/fetch-event-source</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Using the Fetch API to request an SSE endpoint.</div>
@@ -1490,7 +1490,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Richasy/Rodel.Downloader</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">用于 Hugging Face, Model Scope 和 Civitai 等网站的 AI 模型下载</div>
@@ -1593,7 +1593,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Aug 2024, 15:16:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Aug 2024, 16:22:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
