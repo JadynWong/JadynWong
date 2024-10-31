@@ -1394,7 +1394,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>501351981/pptx-preview</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PPTX文档的纯前端预览库 pptx-preview，支持npm方式引入。The pure front-end preview library pptx preview for PPTX documents, supporting the introduction of npm mode</div>
@@ -1598,7 +1598,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Nov 2024, 02:25:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Nov 2024, 03:15:01 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
