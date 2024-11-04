@@ -1379,7 +1379,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>donknap/dpanel</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">docker可视化管理面板</div>
@@ -1529,7 +1529,7 @@
                                         <span>starred 15 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">Zero shot pdf OCR with gpt-4o-mini</div>
+                                <div class="field description">PDF to Markdown with vision models</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1576,7 +1576,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Nov 2024, 01:16:26 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Nov 2024, 02:24:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
