@@ -1362,7 +1362,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tensorchord/pgvecto.rs</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database.</div>
@@ -1415,7 +1415,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>seeksdream/relation-graph</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">relation-graph is a relationship graph display component that supports Vue2, Vue3, React. Allowing you to fully customize the graphical elements using HTML/CSS and Vue or React components through slots. 支持Vue和React的 关联关系图谱组件，可以展示如组织机构图谱、股权架构图谱、集团关系图谱等知识图谱，可提供多种图谱布局，包括树状布局、中心布局、力学布局自动布局等。</div>
@@ -1468,7 +1468,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Marker-Inc-Korea/AutoRAG</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AutoRAG: An Open-Source Framework for Retrieval-Augmented Generation (RAG) Evaluation &amp; Optimization with AutoML-Style Automation</div>
@@ -1571,7 +1571,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Dec 2024, 19:16:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Dec 2024, 20:38:29 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
