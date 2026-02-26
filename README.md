@@ -21,6 +21,17 @@
 <a href="https://www.credly.com/badges/bc3a5e61-07eb-4691-a1e5-3d99f29ef992" title="Microsoft Certified: Power Platform App Maker Associate"><img src="https://images.credly.com/size/80x80/images/60030167-ab95-46aa-8391-c069102e5602/power-platform-app-maker-600x600.png" alt="Microsoft Certified: Power Platform App Maker Associate" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
+#### Certifications
+- [AI-900 Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/39348253/A4CBC28BBB9604DB?sharingId=7A556F4087C39CD1)
+- [AI-102 Azure AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/39348253/9F073C03B7F41D27?sharingId=7A556F4087C39CD1)
+- [PL-900 Power Platform Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/39348253/B2F953B1BF111A63?sharingId=7A556F4087C39CD1)
+- [PL-100 Power Platform App Maker Associate](https://learn.microsoft.com/api/credentials/share/en-us/39348253/19216EB2E21E1197?sharingId=7A556F4087C39CD1)
+- [PL-400 Power Platform Developer Associate](https://learn.microsoft.com/api/credentials/share/en-us/39348253/C2E38032239DCF0?sharingId=7A556F4087C39CD1)
+- [AZ-900 Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/39348253/C8F369856C179C74?sharingId=7A556F4087C39CD1)
+- [AZ-104 Azure Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/39348253/593B7F17F9BDA1A?sharingId=7A556F4087C39CD1)
+- [AZ-400 DevOps Engineer Expert](https://learn.microsoft.com/api/credentials/share/en-us/39348253/C5292E356AED2FC5?sharingId=7A556F4087C39CD1)
+- [DP-600 Fabric Analytics Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/39348253/EBD431EBAB676C0F?sharingId=7A556F4087C39CD1)
+
 <!--
 **JadynWong/JadynWong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
