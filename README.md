@@ -1,9 +1,7 @@
 ### Status
 
- 🌱 Learn more.
-<!--
-![Github Stats](https://github-readme-stats.vercel.app/api?username=JadynWong&show_icons=true&theme=dark) 
--->
+ 🌱 Learn more.  
+![Github Stats](https://github-readme-stats.vercel.app/api?username=JadynWong&show_icons=true) 
 
 ![Metrics](https://github.com/JadynWong/JadynWong/blob/main/github-metrics.svg)
 
