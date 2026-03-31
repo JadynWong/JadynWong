@@ -8,6 +8,7 @@
 ### Badges
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/8d59e6ad-0cc8-4454-b9c8-7749c3836109" title="Microsoft AI CoE Agent Hackathon – Participants joining the Hack-in-a-Day event"><img src="https://images.credly.com/size/80x80/images/f572c61f-bcc9-4a3d-8f8e-77d97a325fde/blob" alt="Microsoft AI CoE Agent Hackathon – Participants joining the Hack-in-a-Day event" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/f625204f-43aa-49ac-9ca6-b168ab6fd9b8" title="Microsoft Certified: Azure AI Fundamentals"><img src="https://images.credly.com/size/80x80/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Microsoft Certified: Azure AI Fundamentals" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/2268786e-9623-4609-a073-322f9b49e730" title="Microsoft Certified: Power Platform Fundamentals"><img src="https://images.credly.com/size/80x80/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" alt="Microsoft Certified: Power Platform Fundamentals" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/a3cf175f-8dfe-41d8-a1d4-c55f18815caf" title="Microsoft Certified: Azure Fundamentals"><img src="https://images.credly.com/size/80x80/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Fundamentals" width="80" height="80"></a>
