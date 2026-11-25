@@ -5,9 +5,8 @@
 
 ![Metrics](https://github.com/JadynWong/JadynWong/blob/main/github-metrics.svg)
 
+<!--
 ### Badges
-
-<!--START_SECTION:badges-->
 [![Microsoft AI CoE Agent Hackathon – Participants joining the Hack-in-a-Day event](https://images.credly.com/size/80x80/images/f572c61f-bcc9-4a3d-8f8e-77d97a325fde/blob)](https://www.credly.com/badges/ecaa6636-00c0-41dc-b330-ae83ba34f611)
 [![Microsoft Certified: Azure AI Fundamentals](https://images.credly.com/size/80x80/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](https://www.credly.com/badges/f625204f-43aa-49ac-9ca6-b168ab6fd9b8)
 [![Microsoft Certified: Power Platform Fundamentals](https://images.credly.com/size/80x80/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png)](https://www.credly.com/badges/2268786e-9623-4609-a073-322f9b49e730)
@@ -17,7 +16,9 @@
 [![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/80x80/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](https://www.credly.com/badges/c0143c85-2d24-40c2-89bd-e3cf3f2c9423)
 [![Microsoft Certified: Power Platform Developer Associate](https://images.credly.com/size/80x80/images/2723937e-7860-4f43-bd2b-3c143b913c3b/power-platform-developer-600x600.png)](https://www.credly.com/badges/37055299-a333-43d4-9827-4b70ca0cc71d)
 [![Microsoft Certified: Power Platform App Maker Associate](https://images.credly.com/size/80x80/images/60030167-ab95-46aa-8391-c069102e5602/power-platform-app-maker-600x600.png)](https://www.credly.com/badges/bc3a5e61-07eb-4691-a1e5-3d99f29ef992)
+<!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
+-->
 
 ### Certifications
 - <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="40" height="40" />[AI-900 Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/39348253/A4CBC28BBB9604DB?sharingId=7A556F4087C39CD1)
