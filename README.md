@@ -17,7 +17,7 @@
 [![Microsoft Certified: Power Platform Developer Associate](https://images.credly.com/size/80x80/images/2723937e-7860-4f43-bd2b-3c143b913c3b/power-platform-developer-600x600.png)](https://www.credly.com/badges/37055299-a333-43d4-9827-4b70ca0cc71d)
 [![Microsoft Certified: Power Platform App Maker Associate](https://images.credly.com/size/80x80/images/60030167-ab95-46aa-8391-c069102e5602/power-platform-app-maker-600x600.png)](https://www.credly.com/badges/bc3a5e61-07eb-4691-a1e5-3d99f29ef992)
 <!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+<!--END_SECTION:badges
 -->
 
 ### Certifications
